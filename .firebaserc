@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "fir-demo2-a8a1c": {
+      "hosting": {
+        "demo": [
+          "fir-demo2-a8a1c"
+        ]
+      }
+    },
+    "drone-e31b9": {
+      "hosting": {
+        "demo": [
+          "drone-e31b9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "drone-e31b9"
+  }
+}
